@@ -1,0 +1,46 @@
+{
+    "foundCount": 2,
+    "results": [
+        {
+            "name": "Ромашка",
+            "type": "company",
+            "inn": "",
+            "ogrn": "",
+            "kpp": "",
+            "phone": "",
+            "adress": "",
+            "users": [],
+            "why_block": [
+                {
+                    "field": "name",
+                    "value": "Ромашка"
+                }
+            ],
+            "id_company": 9
+        },
+        {
+            "name": "Ромашка",
+            "type": "company",
+            "inn": "1234567890",
+            "ogrn": "1234567890123",
+            "kpp": "123456799",
+            "phone": "678",
+            "adress": "новый",
+            "users": [
+                "test_cu_11@mail.com",
+                "test_cu_6@mail.com",
+                "test_cu_5@mail.com",
+                "newsupermail1@noibiz.com",
+                "asdf@mail.ru",
+                "super2@super2.com"
+            ],
+            "why_block": [
+                {
+                    "field": "name",
+                    "value": "Ромашка"
+                }
+            ],
+            "id_company": 7
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "foundCount": 1,
+    "results": [
+        {
+            "name": "Albina",
+            "email": "albi1@mail.ru",
+            "date": "2022-02-06",
+            "avatar": "/tmp/default_avatar.jpg",
+            "by_user": "soap",
+            "why_block": [
+                {
+                    "field": "name",
+                    "value": "Albina"
+                }
+            ],
+            "type": "user"
+        }
+    ]
+}
